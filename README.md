@@ -5,7 +5,6 @@ AI/ML Engineer focused on building practical, reliable machine learning systems 
 ## Connect with me
 - GitHub: https://github.com/riteshakumar
 - LinkedIn: https://www.linkedin.com/in/riteshakumar/
-- X: X
 - Personal Website: www.riteshakumar.com
 
 ## What I Work On
