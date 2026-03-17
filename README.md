@@ -32,8 +32,8 @@ AI/ML Engineer focused on building practical, reliable machine learning systems 
 ![Tools](https://skillicons.dev/icons?i=aws,gcp,azure,git,githubactions,linux)
 
 ## Featured Projects
-- [agents](https://github.com/riteshakumar/agents) — [add one-line description]
-- [llms](https://github.com/riteshakumar/llms) — [add one-line description]
+- [agents](https://github.com/riteshakumar/agents) — ochestration of modular agents
+- [llms](https://github.com/riteshakumar/llms) — ochestration of llms
 
 ## Currently
 - Building: Knowledge Graph based RAG
