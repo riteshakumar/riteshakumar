@@ -31,11 +31,11 @@ AI/ML Engineer focused on building practical, reliable machine learning systems 
 ![Tools](https://skillicons.dev/icons?i=aws,gcp,azure,git,githubactions,linux)
 
 ## Featured Projects
-- [agents](https://github.com/riteshakumar/agents) — ochestration of modular agents
-- [llms](https://github.com/riteshakumar/llms) — ochestration of llms
-- [evals](https://github.com/riteshakumar/evals) — ochestration of llm evals
-- [rags](https://github.com/riteshakumar/rags) — ochestration of rags
-- [search](https://github.com/riteshakumar/search) — ochestration of search
+- [agents](https://github.com/riteshakumar/agents) — orchestration of modular agents
+- [llms](https://github.com/riteshakumar/llms) — orchestration of llms
+- [evals](https://github.com/riteshakumar/evals) — orchestration of llm evals
+- [rags](https://github.com/riteshakumar/rags) — orchestration of rags
+- [search](https://github.com/riteshakumar/search) — orchestration of search
 
 ## Currently
 - Building: Knowledge Graph based RAG
