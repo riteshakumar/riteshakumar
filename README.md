@@ -33,7 +33,8 @@ AI/ML Engineer focused on building practical, reliable machine learning systems 
 ## Featured Projects
 - [agents](https://github.com/riteshakumar/agents) — ochestration of modular agents
 - [llms](https://github.com/riteshakumar/llms) — ochestration of llms
-- [rag](https://github.com/riteshakumar/rags) — ochestration of rags
+- [evals](https://github.com/riteshakumar/evals) — ochestration of llm evals
+- [rags](https://github.com/riteshakumar/rags) — ochestration of rags
 - [search](https://github.com/riteshakumar/search) — ochestration of search
 
 ## Currently
