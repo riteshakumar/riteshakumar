@@ -36,6 +36,7 @@ AI/ML Engineer focused on building practical, reliable machine learning systems 
 - [evals](https://github.com/riteshakumar/evals) — orchestration of llm evals
 - [rags](https://github.com/riteshakumar/rags) — orchestration of rags
 - [search](https://github.com/riteshakumar/search) — orchestration of search
+- [text2ql](https://github.com/riteshakumar/text2ql) - Natural language to query language toolkit(determinstic,llm,hybrid)
 
 ## Currently
 - Building: Knowledge Graph based RAG
